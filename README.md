@@ -19,5 +19,5 @@ Enjoy!
 
 ## Software skils - UX/UI and Design Graphic 🖌️
 - 🧩 Figma
-- 🎨 Creative Suite Abobe (Ai, PS, Id)
+- 🎨 Creative Suite Adobe (Ai, PS, iD)
 - 🧠 Paper and my brain 
