@@ -1,6 +1,7 @@
-<h1 align="center"> Hi there, I'm Lucia 👋🏽 </h1>
 
 ![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D4D16AQEiXIfdnF3rjA/profile-displaybackgroundimage-shrink_350_1400/0/1690232972689?e=1699488000&v=beta&t=ovbHplTNKStiCNOsnm869O8Gt5uUHutLUgK0dyA8kSY)
+
+# Hi there, I'm Lucia 👋🏽
 
 ## A passionate creativity frontend developer
 First of all, if you check out my github profile, I'm very grateful! Really!
