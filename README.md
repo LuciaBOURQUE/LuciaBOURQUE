@@ -17,7 +17,7 @@ Enjoy!
 - ⚛️ React/React Native, Redux, Vue.JS (working..)
 - 🖌️ Sass, Tailwind, Bootsrap
 
-## Software skils - UX/UI and Design Graphic 🖌️(+4)
+## Software skils - UX/UI and Design Graphic 🖌️(+5)
 - 🧩 Figma
 - 🎨 Creative Suite Adobe (Ai, PS, iD)
 - 🧠 Paper and my brain 
