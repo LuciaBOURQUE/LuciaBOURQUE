@@ -12,12 +12,12 @@ That said, I'm a React frontend developer and I try as best I can to follow the 
 Currently I'm working on my site/portfolio (it coming soon... so just wait a little bit) while learning and discovering the new Vue.js language.
 Enjoy!
 
-## Programming languages - Frontend Development 💻
+## Programming languages - Frontend Development 💻 (+1)
 - 💻 HTML, CSS, JS
 - ⚛️ React/React Native, Redux, Vue.JS (working..)
 - 🖌️ Sass, Tailwind, Bootsrap
 
-## Software skils - UX/UI and Design Graphic 🖌️
+## Software skils - UX/UI and Design Graphic 🖌️(+4)
 - 🧩 Figma
 - 🎨 Creative Suite Adobe (Ai, PS, iD)
 - 🧠 Paper and my brain 
