@@ -13,9 +13,10 @@ Currently I'm working on my site/portfolio (it coming soon... so just wait a lit
 Enjoy!
 
 ## Programming languages - Frontend Development 💻 (+1)
-- 💻 HTML, CSS, JS
+- 🟨🟦 JavaScript, TypeScript
+- 💻 HTML, CSS, Bootstrap
 - ⚛️ React/React Native, Redux, Vue.JS (working..)
-- 🖌️ Sass, Tailwind, Bootsrap
+- 🖌️ Sass, Tailwind
 
 ## Software skils - UX/UI and Design Graphic 🖌️(+5)
 - 🧩 Figma
