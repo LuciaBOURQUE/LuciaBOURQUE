@@ -18,7 +18,7 @@ Enjoy!
 - 💻 HTML, CSS
 - 🖌️ Sass, Tailwind, Bootstrap
 
-## Software skils - UX/UI and Design Graphic 🖌️(+5)
+## Software skills - UX/UI and Design Graphic 🖌️(+5)
 - 🧩 Figma
 - 🎨 Creative Suite Adobe (Ai, PS, iD)
 - 🧠 Paper and my brain 
