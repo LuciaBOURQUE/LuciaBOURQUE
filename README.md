@@ -14,9 +14,9 @@ Enjoy!
 
 ## Programming languages - Frontend Development 💻 (+1)
 - 🟨🟦 JavaScript, TypeScript
-- 💻 HTML, CSS, Bootstrap
 - ⚛️ React/React Native, Redux, Vue.JS (working..)
-- 🖌️ Sass, Tailwind
+- 💻 HTML, CSS
+- 🖌️ Sass, Tailwind, Bootstrap
 
 ## Software skils - UX/UI and Design Graphic 🖌️(+5)
 - 🧩 Figma
