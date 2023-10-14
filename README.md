@@ -14,7 +14,7 @@ Enjoy!
 
 ## Programming languages - Frontend Development 💻 (+1)
 - 🟨🟦 JavaScript, TypeScript
-- ⚛️ React/React Native, Redux, Vue.JS (working..)
+- ⚛️ React/React Native, Redux, Next.JS (working..)
 - 💻 HTML, CSS
 - 🖌️ Sass, Tailwind, Bootstrap
 
