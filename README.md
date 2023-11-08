@@ -9,7 +9,7 @@ First of all, if you check out my github profile, I'm very grateful! Really!
 I'm passionate about design and development and I love mixing them up and changing projects whenever I want. Typically, I work with Figma and Adobe Creative Cloud for UX/UI creation and graphic design.
 That said, I'm a React frontend developer and I try as best I can to follow the movement to enrich myself and improve in my practice of React. If you wish, you can browse my projects to discover a little more about my world.
 
-Currently I'm working on my site/portfolio (it coming soon... so just wait a little bit) while learning and discovering the new Vue.js language.
+Currently I'm working on my site/portfolio (it coming soon... so just wait a little bit) while learning and discovering the new NextJS language.
 Enjoy!
 
 ## Programming languages - Frontend Development 💻 (+1)
