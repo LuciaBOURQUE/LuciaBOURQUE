@@ -25,4 +25,4 @@ Enjoy!
 
 ## You can follow me
 - [LinkedIn](https://www.linkedin.com/in/luciabourque-devweb/)
-- Website (🛠 in construction with Nestjs 🛠)
+- Website (🛠 in construction with NextJS 🛠)
