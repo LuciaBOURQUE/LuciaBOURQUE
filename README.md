@@ -16,7 +16,7 @@ Enjoy!
 - 🟨🟦 JavaScript, TypeScript
 - ⚛️ React/React Native, Redux, Next.JS (working..)
 - 💻 HTML, CSS
-- 🖌️ Sass, Tailwind, Bootstrap
+- 🖌️ Sass, Tailwind
 
 ## Software skills - UX/UI and Design Graphic 🖌️(+5)
 - 🧩 Figma
