@@ -14,9 +14,14 @@ Enjoy!
 
 ## Programming languages - Frontend Development 💻 (+1)
 - 🟨🟦 JavaScript, TypeScript
-- ⚛️ React/React Native, Redux, Next.JS (working..)
+- ⚛️ React/React Native, Redux, Next.JS (working to discover)
 - 💻 HTML, CSS
 - 🖌️ Sass, Tailwind
+
+## Actualy in formation to discover Backend Development (Bordeaux) 💻 (-1)
+- Java Jakarta EE with Spring and Spring Boot
+- Refresher on Javascript and Typescript
+- Angular
 
 ## Software skills - UX/UI and Design Graphic 🖌️(+5)
 - 🧩 Figma
