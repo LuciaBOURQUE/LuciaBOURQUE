@@ -19,7 +19,7 @@ Thanks again for visiting. Feel free to explore my projects, and don't hesitate 
 - 💻 HTML, CSS
 - 🖌️ Sass, Tailwind
 
-### 🤓 Actualy in formation to discover Backend Development (-1)
+### 🤓 Actually in formation to discover Backend Development (-1)
 - Java Jakarta EE with Spring and Spring Boot
 - Refresher on Javascript and Typescript
 - Angular
