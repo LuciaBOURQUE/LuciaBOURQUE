@@ -1,5 +1,5 @@
 
-![Design and development](https://github.com/LuciaBOURQUE/LuciaBOURQUE/blob/main/LinkedIn%20cover.png)
+![Design and development](https://github.com/LuciaBOURQUE/LuciaBOURQUE/blob/main/Github%20cover.png)
 
 # Hi there, I'm Lucia 👋🏽
 
