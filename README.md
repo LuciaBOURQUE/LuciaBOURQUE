@@ -4,13 +4,14 @@
 # Hi there, I'm Lucia 👋🏽
 
 ## A passionate creativity frontend developer
-First of all, if you check out my github profile, I'm very grateful! Really!
+Hello and thanks for dropping by my GitHub profile!
 
-I'm passionate about design and development and I love mixing them up and changing projects whenever I want. Typically, I work with Figma and Adobe Creative Cloud for UX/UI creation and graphic design.
-That said, I'm a React frontend developer and I try as best I can to follow the movement to enrich myself and improve in my practice of React. If you wish, you can browse my projects to discover a little more about my world.
+I'm Lucia, a UX/UI designer and freelance graphic artist with over four years of experience. My passion lies at the intersection of design and development, allowing me to switch gears and take on diverse projects. I predominantly work with Figma and Adobe Creative Cloud for UX/UI creation and graphic design.
 
-Currently I'm working on my site/portfolio (it coming soon... so just wait a little bit) while learning and discovering the new NextJS language.
-Enjoy!
+Beyond my design journey, I'm a React frontend developer. I'm constantly pushing the boundaries of my skills, staying on top of the latest trends to refine my craft. Feel free to delve into my projects to get a glimpse of my creative world.
+
+Currently, I'm diving into backend intricacies with Java and simultaneously crafting my soon-to-be-released website/portfolio. All the while, I'm diving into the exciting realm of NextJS.
+Thanks again for visiting. Feel free to explore my projects, and don't hesitate to reach out if you have any questions or suggestions!
 
 ## Programming languages - Frontend Development 💻 (+1)
 - 🟨🟦 JavaScript, TypeScript
@@ -18,7 +19,7 @@ Enjoy!
 - 💻 HTML, CSS
 - 🖌️ Sass, Tailwind
 
-## Actualy in formation to discover Backend Development (Bordeaux) 💻 (-1)
+### 🤓 Actualy in formation to discover Backend Development (-1)
 - Java Jakarta EE with Spring and Spring Boot
 - Refresher on Javascript and Typescript
 - Angular
@@ -26,7 +27,12 @@ Enjoy!
 ## Software skills - UX/UI and Design Graphic 🖌️(+5)
 - 🧩 Figma
 - 🎨 Creative Suite Adobe (Ai, PS, iD)
-- 🧠 Paper and my brain 
+- 🧠 Paper and my brain
+
+### Actualy in formation to discover Backend Development (Bordeaux) 💻 (-1)
+- Java Jakarta EE with Spring and Spring Boot
+- Refresher on Javascript and Typescript
+- Angular
 
 ## You can follow me
 - [LinkedIn](https://www.linkedin.com/in/luciabourque-devweb/)
