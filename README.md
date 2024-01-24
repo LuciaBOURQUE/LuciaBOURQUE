@@ -29,11 +29,6 @@ Thanks again for visiting. Feel free to explore my projects, and don't hesitate 
 - 🎨 Creative Suite Adobe (Ai, PS, iD)
 - 🧠 Paper and my brain
 
-### Actualy in formation to discover Backend Development (Bordeaux) 💻 (-1)
-- Java Jakarta EE with Spring and Spring Boot
-- Refresher on Javascript and Typescript
-- Angular
-
 ## You can follow me
 - [LinkedIn](https://www.linkedin.com/in/luciabourque-devweb/)
 - Website (🛠 in construction with NextJS 🛠)
